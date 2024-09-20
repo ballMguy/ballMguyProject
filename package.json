@@ -1,0 +1,14 @@
+{
+  "name": "ballmguyproject",
+  "version": "1.0.0",
+  "description": "Supaluk Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supaluk Yodjan",
+  "license": "ISC",
+  "dependencies": {
+    "mailchecker": "^6.0.9"
+  }
+}
